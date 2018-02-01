@@ -32,7 +32,7 @@ if (empty($_POST["message"])) {
 }
 
 
-$EmailTo = "lawrencechen14@berkeley.edu";
+$EmailTo = "achow50@berkeley.edu";
 $Subject = "New Message Received";
 
 // prepare email body text
