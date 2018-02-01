@@ -16,7 +16,7 @@
     -2.3 SOCIAL ICON
     -2.4 PRE LOADER
     -2.5 SCROLL TO UP
-  3. HERO AREA 
+  3. HERO AREA
   4. NAVBAR
   5. ABOUTME SECTION
   6. EXPERIENCE SECTION
@@ -370,8 +370,8 @@ button:focus {
   }
 }
 
-/* ========================================================================== 
-  -2.5 Scroll To Up 
+/* ==========================================================================
+  -2.5 Scroll To Up
    ========================================================================== */
 .back-to-top {
   display: none;
@@ -400,7 +400,7 @@ button:focus {
    3. Hero Area
    ========================================================================== */
 #hero-area {
-  background: url(../img/header_photo.png) fixed no-repeat;
+  background: url(../img/header_photo.jpg) fixed no-repeat;
   background-size: cover;
   color: #fff;
   overflow: hidden;
