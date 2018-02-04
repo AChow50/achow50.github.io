@@ -676,7 +676,7 @@ button:focus {
 }
 
 #experience .box-item .icon {
-  border: 1px solid #1a7f11;
+  border: 1px solid #ffffff;
   text-align: center;
   float: left;
   -webkit-transition: all 0.2s linear;
@@ -686,7 +686,7 @@ button:focus {
 }
 
 #experience .box-item .icon i {
-  color: #1a7f11;
+  color: #ffffff;
   font-size: 24px;
   line-height: 60px;
   -webkit-transition: all 0.2s linear;
@@ -700,7 +700,7 @@ button:focus {
 }
 
 #experience .box-item .text h3 {
-  color: #1a7f11;
+  color: #ffffff;
   font-weight: 700;
   font-size: 20px;
   text-transform: uppercase;
@@ -708,7 +708,7 @@ button:focus {
 }
 
 #experience .box-item .text h4 {
-  color: #1a7f11;
+  color: #ffffff;
   font-weight: 200;
   font-size: 16px;
   text-transform: uppercase;
@@ -721,7 +721,7 @@ button:focus {
 }
 
 #experience .box-item:hover .icon {
-  background: #1a7f11;
+  background: #ffffff;
 }
 
 #experience .box-item:hover .icon i {
